@@ -1,2 +1,2 @@
 # Menu-App
-A Simple Menu App Made With Android Studio 
+A Simple Menu App Made With Android Studio.
